@@ -19,6 +19,15 @@ The inverted pendulum or cart pole is a classic problem in control theory.
 
 - piece of extruded aluminum rail called V-Slot, (1.5 m long)
 
+# Materials 
+
+-V-Slot Linear Rail – 20x20mm - Clear Anodise, 1500mm
+
+
+
+
+
+
 
 
 #resourses 
