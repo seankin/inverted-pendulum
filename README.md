@@ -22,10 +22,18 @@ The inverted pendulum or cart pole is a classic problem in control theory.
 
 
 #resourses 
+
 http://blog.benwiener.com/programming/2018/05/10/cart-pole.html
+
 http://underactuated.mit.edu/index.html
+
 https://github.com/philzook58/cart_pole
+
 https://www.philipzucker.com/cart-pole-using-lyapunov-lqr-control-openai-gym/
+
 http://underactuated.csail.mit.edu/pend.html
+
+http://web.mit.edu/klund/www/papers/UNP_pendulum.pdf
+
 https://www.i-programmer.info/news/105-artificial-intelligence/11336-worm-balanced-a-pole-on-its-tail.html
 https://www.i-programmer.info/news/169/6769.html
