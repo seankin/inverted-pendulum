@@ -1,4 +1,4 @@
-# inverted_pendulum
+# Inverted Pendulum Project 
 
 This project was used along side studying my Engineering degree specialising in Electronics to learn about control theory and physics in a practical way. 
 
@@ -30,7 +30,7 @@ The inverted pendulum or cart pole is a classic problem in control theory.
 
 
 
-#resourses 
+# Resourses 
 
 http://blog.benwiener.com/programming/2018/05/10/cart-pole.html
 
