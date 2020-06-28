@@ -37,3 +37,5 @@ http://web.mit.edu/klund/www/papers/UNP_pendulum.pdf
 
 https://www.i-programmer.info/news/105-artificial-intelligence/11336-worm-balanced-a-pole-on-its-tail.html
 https://www.i-programmer.info/news/169/6769.html
+http://web.mit.edu/klund/www/papers/Roberge1960.pdf
+
