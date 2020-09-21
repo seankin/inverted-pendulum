@@ -33,9 +33,25 @@ The inverted pendulum or cart pole is a classic problem in control theory.
 
 -ICQUANZX DC Gear Motor 12V 200R High Torque Electric Micro Speed Reduction Geared Motor Centric Output Shaft Diameter Gearbox
 
+# Method
 
 
+-The rotary encoders were monitored by an Arduino Uno
+-Two different controllers (one to pump energy into the system and swing the cart into the upright position, and an linear quadratic regulator to balance it upright)
+-Python program contains commands the motor controller over serial and can query the Arduino whenever it needs to know the state of the system.
 
+#LQR Controller
+
+-linear quadratic regulator or LQR controller. 
+-
+
+#Math 
+
+-q is the position of the cart
+-θ is the angle of the pole counter-clockwise from vertical 
+-f is the force on the cart
+-A and B are matrices that define the dynamics
+-Q and R are matrices that define the cost. 
 
 
 # Resourses 
