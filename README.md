@@ -33,6 +33,8 @@ The inverted pendulum or cart pole is a classic problem in control theory.
 
 -ICQUANZX DC Gear Motor 12V 200R High Torque Electric Micro Speed Reduction Geared Motor Centric Output Shaft Diameter Gearbox
 
+-L298N DC Motor Driver Module
+
 # Method
 
 
