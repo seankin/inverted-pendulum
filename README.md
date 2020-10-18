@@ -43,7 +43,13 @@ The inverted pendulum or cart pole is a classic problem in control theory.
 #LQR Controller
 
 -linear quadratic regulator or LQR controller. 
--
+
+
+![Alt text](photos/IMG_4753.heic?raw=true "Arduino")
+
+
+![Alt text](photos/schematic.png?raw=true "Schematic")
+
 
 #Math 
 
