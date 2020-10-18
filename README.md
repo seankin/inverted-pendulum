@@ -27,8 +27,6 @@ The inverted pendulum or cart pole is a classic problem in control theory.
 
 -20-teeth timing pulley wheel + 5m GT2 toothed belt
 
--DC PWM Motor Controller Reversible 12V 24V 36V 40A High Power Motor Speed Controller Switch CCM6Ds-B
-
 -ARDUINO MEGA 2560 REV3 [A000067]
 
 -ICQUANZX DC Gear Motor 12V 200R High Torque Electric Micro Speed Reduction Geared Motor Centric Output Shaft Diameter Gearbox
