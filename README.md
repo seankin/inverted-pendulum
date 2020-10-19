@@ -51,6 +51,19 @@ The inverted pendulum or cart pole is a classic problem in control theory.
 ![Alt text](photos/schematic.png?raw=true "Schematic")
 
 
+# Arduino
+
+// Motor A connections
+int enA = 9;
+int in1 = 8;
+int in2 = 7;
+
+// This function lets you control spinning direction of motors
+void directionControl() {
+  // Set motors to maximum speed
+  // For PWM maximum possible values are 0 to 255
+  analogWrite(enA, 255);
+
 #Math 
 
 -q is the position of the cart
