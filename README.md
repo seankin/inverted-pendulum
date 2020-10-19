@@ -75,6 +75,8 @@ void directionControl() {
 
 # Resourses 
 
+https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/
+
 http://blog.benwiener.com/programming/2018/05/10/cart-pole.html
 
 http://underactuated.mit.edu/index.html
